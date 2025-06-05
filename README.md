@@ -4,44 +4,25 @@ I'm a passionate Flutter and backend developer with over **one year of experienc
 
 ## 🚀 Tech Stack
 
-### 💻 Programming Languages
-- C++
-- Java
-- Kotlin
-- Dart
-- Javascript
-
-### 📱 Frameworks & SDKs
-- Flutter
-- Android SDK
-- Node js
-
-### 🎯 State Management
-- Riverpod
-- GetX
-
-### 🌐 Networking
-- http
-- Dio
-- RESTful APIs
-
-### 🧩 Databases
-- Firebase
-- SQLite
-- Drift
-- Isar
-
-### 💉 Dependency Injection
-- get_it
-
-### 🛠 Tools & Platforms
-- Git & GitHub
-- Postman
-- Visual Studio Code
-- Android Studio
-
+**Languages:** C++, Java, Kotlin, Dart, JavaScript  
+**Frameworks/SDKs:** Flutter, Android SDK, Node.js  
+**State Management:** Riverpod, GetX  
+**Networking:** HTTP, Dio, RESTful APIs  
+**Databases:** Firebase, SQLite, Drift, Isar  
+**Dependency Injection:** get_it  
+**Tools:** Git, GitHub, Postman, VS Code, Android Studio
 
 ## 🌱 Currently Exploring
 - Custom animations and advanced UI/UX
-- Backend integration with Firebase and Node.js
+- Backend development with JS/Node.js
 
+
+## 🎮 Fun Facts About Me
+
+- 🎮 I’m a serious **Tekken player** — main **Nina** and always up for a challenge!
+- 🎧 Music keeps me going — **The Weeknd** is my all-time favorite artist.
+- 🧠 I'm always curious and constantly learning — whether it’s new tech or game mechanics.
+
+
+## 🧑 My Socials
+Linkedin: https://www.linkedin.com/in/qasimxo
