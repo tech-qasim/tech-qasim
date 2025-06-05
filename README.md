@@ -25,5 +25,5 @@ I'm a passionate Flutter and backend developer with over **one year of experienc
 
 
 ## 🧑 My Socials
-Linkedin: https://www.linkedin.com/in/qasimxo
-Leetcode: https://leetcode.com/u/qasimzexal/
+- Linkedin: https://www.linkedin.com/in/qasimxo/
+- Leetcode: https://leetcode.com/u/qasimzexal/
