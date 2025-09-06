@@ -1,30 +1,47 @@
-# 👋 Hi there, I'm Mohammad Qasim!
+# 👋 Hi there, I'm Mohammad Qasim!  
 
-I'm a passionate Flutter and backend developer, specializing in crafting high-quality and responsive cross-platform applications using **Flutter**. I enjoy building clean UIs, writing scalable code, and learning the latest in mobile development tech.
+I’m a **Software Engineer** passionate about solving problems and building impactful digital products.  
+Right now, I’m focused on crafting **modern, high-performance mobile applications** with **Flutter** and scalable backends — but my strong foundation in **software engineering principles** allows me to adapt to different domains when needed.  
 
-## 🚀 Tech Stack
+---
 
-**Languages:** C++, Java, Kotlin, Dart, JavaScript  
-**Frameworks/SDKs:** Flutter, Android SDK, Node.js  
-**State Management:** Riverpod, GetX  
-**Networking:** HTTP, Dio, RESTful APIs  
-**Databases:** Firebase, SQLite, Drift, Isar  
-**Dependency Injection:** get_it  
-**Tools:** Git, GitHub, Postman, VS Code, Android Studio
+## 🚀 Tech Stack  
 
-## 🌱 Currently Exploring
-- Custom animations and advanced UI/UX
-- Backend development with JS/Node.js
+- **Languages:** C++, Java, Kotlin, Dart, JavaScript  
+- **Frameworks/SDKs:** Flutter, Android SDK, Node.js  
+- **State Management:** Riverpod, GetX  
+- **Networking:** HTTP, Dio, RESTful APIs  
+- **Databases:** Firebase, SQLite, Drift, Isar  
+- **Dependency Injection:** get_it  
+- **Tools & Platforms:** Git, GitHub, Postman, VS Code, Android Studio, Firebase Console  
 
+---
 
-## 🎮 Fun Facts About Me
+## 🌱 What I’m Currently Exploring  
+- Building production-ready apps with **scalable architectures**  
+- Advanced UI/UX with **custom animations**  
+- Backend development & **API design** with Node.js  
 
-- 🎮 I’m a serious **Tekken player** — main **Nina** and always up for a challenge!
-- 🎧 Music keeps me going — **The Weeknd** is my all-time favorite artist.
-- 🧠 I'm always curious and constantly learning — whether it’s new tech or game mechanics.
+---
 
+## 💡 My Engineering Mindset  
+- **Versatility** → Comfortable across mobile, backend, and beyond  
+- **Problem-Solving** → Strong grasp of OOP, algorithms, and clean code practices  
+- **Product Thinking** → Care about usability, scalability, and maintainability  
+- **Curiosity-Driven** → Always learning, always experimenting  
 
-## 🧑 My Socials
-- My Website: https://devqasim.vercel.app
-- Linkedin: https://www.linkedin.com/in/qasimxo/
-- Leetcode: https://leetcode.com/u/qasimzexal/
+---
+
+## 🎮 Fun Facts About Me  
+- 🎮 Competitive **Tekken player** (main: **Nina**) — always up for a challenge  
+- 🎧 **Music keeps me in flow** — The Weeknd is my all-time favorite  
+- 🧠 Lifelong learner — from new tech stacks to game mechanics  
+
+---
+
+## 🧑 My Socials  
+- 🌐 Portfolio: [devqasim.vercel.app](https://devqasim.vercel.app)  
+- 💼 LinkedIn: [linkedin.com/in/qasimxo](https://www.linkedin.com/in/qasimxo/)  
+- 🧩 Leetcode: [leetcode.com/u/qasimzexal/](https://leetcode.com/u/qasimzexal/)  
+
+---
