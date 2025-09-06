@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Mohammad Qasim!
 
-I'm a passionate Flutter and backend developer with over **one year of experience**, specializing in crafting high-quality and responsive cross-platform applications using **Flutter**. I enjoy building clean UIs, writing scalable code, and learning the latest in mobile development tech.
+I'm a passionate Flutter and backend developer, specializing in crafting high-quality and responsive cross-platform applications using **Flutter**. I enjoy building clean UIs, writing scalable code, and learning the latest in mobile development tech.
 
 ## 🚀 Tech Stack
 
