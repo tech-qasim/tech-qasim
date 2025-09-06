@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Mohammad Qasim!  
 
 I’m a **Software Engineer** passionate about solving problems and building impactful digital products.  
-Right now, I’m focused on crafting **modern, high-performance mobile applications** with **Flutter** & **Android** and scalable backends — but my strong foundation in **software engineering principles** allows me to adapt to different domains when needed.  
+Right now, I’m focused on crafting **modern, high-performance mobile applications** with **Flutter** and scalable backends — but my strong foundation in **software engineering principles** allows me to adapt to different domains when needed.  
 
 ---
 
