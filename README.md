@@ -13,7 +13,8 @@ Right now, I’m focused on crafting **modern, high-performance mobile applicati
 - **Networking:** HTTP, Dio, RESTful APIs  
 - **Databases:** Firebase, SQLite, Drift, Isar  
 - **Dependency Injection:** get_it  
-- **Tools & Platforms:** Git, GitHub, Postman, VS Code, Android Studio, Firebase Console  
+- **Tools & Platforms:** Git, GitHub, Postman, VS Code, Android Studio, Firebase Console
+- **AI Tools:** ChatGPT, Claude, Copilot
 
 ---
 
