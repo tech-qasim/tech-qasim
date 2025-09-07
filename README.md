@@ -44,6 +44,6 @@ Right now, I’m focused on crafting **modern, high-performance mobile applicati
 - 🌐 Portfolio: [devqasim.vercel.app](https://devqasim.vercel.app)  
 - 💼 LinkedIn: [linkedin.com/in/qasimxo](https://www.linkedin.com/in/qasimxo/)  
 - 🧩 Leetcode: [leetcode.com/u/qasimzexal/](https://leetcode.com/u/qasimzexal/)
-- 🐦 X: https://x.com/devqasim_
+- 🐦 X: devqasim_
 
 ---
